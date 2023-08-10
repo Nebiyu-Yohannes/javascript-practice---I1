@@ -10,6 +10,9 @@
 
 
 ** let, const and var 
-        --> var - these variables/objects can be re-declared and updated
-        --> let - these variables/objects can be updated but can not be re-declared
-        --> const - these variables/objects can't neither be re-declared nor updated
+        --> var - /within their scope/ these variables/objects can be re-declared and updated
+        --> let - /within their scope/ these variables/objects can be updated but can not be re-declared
+        --> const - /within their scope/ these variables/objects can't neither be re-declared nor updated
+
+        In terms of scope: var -- global/function scoped
+                         : let/const -- block scoped
