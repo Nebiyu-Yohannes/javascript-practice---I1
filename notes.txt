@@ -1,0 +1,13 @@
+
+
+
+
+
+
+
+
+"use strict";  --> this is recommended at the beginning of the js file 
+
+
+console.log(``); --> Use the `` symbol to print or output strings and objects
+
