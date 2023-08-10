@@ -19,9 +19,9 @@ const Animal1 = new Animal('Dog', 7, 'Male', 'Mammal');
 
 const Animal2 = new Animal('Cat', 4, 'Female', 'Mammal');
 
-const Animal3 = new Animal('Eagle', 3, 'male', 'Bird');
+const Animal3 = new Animal('Eagle', 3, 'Male', 'Bird');
 
-const Animal4 = new Animal('Human', 75, 'male', 'Mammal');
+const Animal4 = new Animal('Human', 75, 'Male', 'Mammal');
 
 console.log(Dog);
 console.log(Dog.Type);
