@@ -10,15 +10,14 @@ class Animal{
     }
 
     info(){
-        return "This animal is " ${this.age} "and, it is " ${Type};
-    }
+        return `This animal is ${this.name} and it is a ${this.Type}`;
+}
 
 }
 
+const Dog = new Animal('Dog', 7, 'male', 'mammal');
 
-const Dog = new Animal('Dog', 7, 'male', 'mammal')
-
-console.log(Dog)
-console.log(Dog.Type)
-console.log(Dog.info())
+console.log(Dog);
+console.log(Dog.Type);
+console.log(Dog.info());
 
