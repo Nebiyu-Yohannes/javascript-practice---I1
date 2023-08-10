@@ -16,3 +16,9 @@ class Animal{
 }
 
 
+const Dog = new Animal('Dog', 7, 'male', 'mammal')
+
+console.log(Dog)
+console.log(Dog.Type)
+console.log(Dog.info())
+
