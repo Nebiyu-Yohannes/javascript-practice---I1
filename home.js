@@ -9,5 +9,9 @@ class Animal{
         this.Type = type;
     }
 
+    info(){
+        return "This animal is ${this.age}"
+    }
+
 
 }
