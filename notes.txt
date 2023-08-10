@@ -16,3 +16,12 @@
 
         In terms of scope: var -- global/function scoped
                          : let/const -- block scoped
+
+
+
+** methods /getters/
+
+        get name (){
+                return this._name  // --> can not be used directly on the class (on the constructor variable)
+        }                               -> used on the instance variable
+
