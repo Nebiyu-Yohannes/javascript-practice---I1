@@ -23,8 +23,8 @@ const Animal3 = new Animal('Eagle', 3, 'Male', 'Bird');
 
 const Animal4 = new Animal('Human', 75, 'Male', 'Mammal');
 
-console.log(Dog);
-console.log(Dog.Type);
-console.log(Dog.info());
 
+
+console.log(Dog.info());
+console.log(Dog.info());
 
