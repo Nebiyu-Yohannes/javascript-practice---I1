@@ -9,9 +9,18 @@ class Animal{
         this.Type = type;
     }
 
-    info(){
-        return `This animal is ${this.name} and it is a ${this.Type}`;
+/**
+ * Returns information about the animal.
+ * @returns {string} - The animal's name and type.
+ */
+info() {
+    const { name, Type } = this;
+    return `This animal is ${name} and it is a ${this.Type}`;
 }
+/** 
+ * info(){return `This animal is ${this.name} and it is a ${this.Type}`;}
+*/
+
 
 }
 
