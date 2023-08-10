@@ -10,7 +10,7 @@ class Animal{
     }
 
     info(){
-        return "This animal is ${this.age}"
+        return "This animal is " ${this.age} "and, it is " ${Type};
     }
 
 }
