@@ -28,4 +28,4 @@ const Animal4 = new Animal('Human', 75, 'Male', 'Mammal');
 console.log(Animal1.info());
 console.log(Animal2.info());
 console.log(Animal3.info());
-console.log(.info());
+console.log(Animal4.info());
