@@ -27,5 +27,5 @@ const Animal4 = new Animal('Human', 75, 'Male', 'Mammal');
 
 console.log(.info());
 console.log(.info());
-console.log(Dog.info());
-console.log(Dog.info());
+console.log(.info());
+console.log(.info());
