@@ -1,18 +1,15 @@
+ ---------------  Javascript - intermediate - practice notes -----------------------
 
 
 
 
+** "use strict";  --> this is recommended at the beginning of the js file 
 
 
+** console.log(``); --> Use the `` symbol to print or output strings and objects
 
 
-"use strict";  --> this is recommended at the beginning of the js file 
-
-
-console.log(``); --> Use the `` symbol to print or output strings and objects
-
-
-let, const and var 
+** let, const and var 
         --> var - these variables/objects can be re-declared and updated
         --> let - these variables/objects can be updated but can not be re-declared
-        -->
+        --> const - these variables/objects can't neither be re-declared nor updated
