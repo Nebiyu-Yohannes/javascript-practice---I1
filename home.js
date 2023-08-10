@@ -2,13 +2,11 @@
 
 class Animal{
     
-    constructor(name, age, sex, type, old){
+    constructor(name, age, sex, type){
         this.name = name;
         this.age = age;
         this.sex = sex;
         this.Type = type;
-        this.old = old; 
-        old = function () { return this.age - 1; }
     }
 
     info(){
@@ -31,3 +29,4 @@ console.log(Animal1.info());
 console.log(Animal2.info());
 console.log(Animal3.info());
 console.log(Animal4.info());
+
