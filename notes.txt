@@ -11,3 +11,7 @@
 
 console.log(``); --> Use the `` symbol to print or output strings and objects
 
+
+let, const and var 
+        --> var - these variables/
+        --> let - these variables/objects can not be re-declared but can be updated 
