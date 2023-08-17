@@ -30,3 +30,6 @@
 ** methods /calls/
 
         console.log(object.property)
+
+        to call a funtion on an object:-   
+                
