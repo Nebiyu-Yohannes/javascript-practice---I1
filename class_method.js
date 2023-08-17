@@ -1,4 +1,4 @@
-
+// methods- get and call 
 
 class Surgeon {
     constructor(name, department) {
