@@ -29,8 +29,16 @@
 
 ** methods /calls/
 
-        console.log(object.property)
+        to print out a value of a property for an instance
+                console.log(object.property)
 
         **to call a function on an object:- 
-                        object
+                    -->    "object.function"
                 
+
+** Inheritance
+
+        
+
+
+
