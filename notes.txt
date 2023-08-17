@@ -25,3 +25,8 @@
                 return this._name  // --> can not be used directly on the class (on the constructor variable)
         }                               -> used on the instance variable
 
+
+
+** methods /calls/
+
+        console.log(object.property)
