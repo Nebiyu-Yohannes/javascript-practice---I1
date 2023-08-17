@@ -18,6 +18,10 @@
                          : let/const -- block scoped
 
 
+**Instance 
+        --> when trying to access or operate on instances, make sure to use "this.property"
+
+
 
 ** methods /getters/
 
