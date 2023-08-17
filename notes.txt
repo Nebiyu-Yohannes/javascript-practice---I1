@@ -38,7 +38,7 @@
 
 ** Inheritance
 
-        --> it is when a child class inherites from a parent class
+        --> it is when a child class inherits from a parent class
         --> a class could also inherite from another class by extending it 
         
         
