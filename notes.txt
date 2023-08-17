@@ -31,5 +31,5 @@
 
         console.log(object.property)
 
-        to call a funtion on an object:-   
+        to call a function on an object:-   
                 
