@@ -45,7 +45,6 @@
         --> it is when a child class inherits from a parent class
         --> a class could also inherits from another class by extending it 
         
-        
-
+        --> The super keyword calls the constructor of the parent class. In this case, super(name) passes the name argument of the Cat class to the constructor of the Animal class. 
 
 
