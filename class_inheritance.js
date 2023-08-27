@@ -27,10 +27,6 @@ class Nurse extends HospitalEmployee {
         this._certifications = certifications;
     }
 
-    get remainingVacationDays() {
-        return this._remainingVacationDays;
-    }
-
     get certifications() {
         return this._certifications;
     }
@@ -40,5 +36,6 @@ class Nurse extends HospitalEmployee {
 const nurseOlynyk = new Nurse('Olynyk', 'Trauma', 'Pediatrics');
 
 nurseOlynyk.takeVacationDays(5);
+console.log(nurseOlynyk.remainingVacationDays());
 
 
